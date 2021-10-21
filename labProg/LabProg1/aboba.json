@@ -1,0 +1,32 @@
+[
+  {
+    "name": "kostya",
+    "status": "promislovuy",
+    "ammount": 54,
+    "price": 27
+  },
+  {
+    "name": "andrii",
+    "status": "prodovol",
+    "ammount": 1,
+    "price": 54
+  },
+  {
+    "name": "oleg",
+    "status": "promislovuy",
+    "ammount": 2,
+    "price": 23
+  },
+  {
+    "name": "vasya",
+    "status": "prodovol",
+    "ammount": 3,
+    "price": 9
+  },
+  {
+    "name": "misha",
+    "status": "promislovuy",
+    "ammount": 9,
+    "price": 1
+  }
+]

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <name>kostya</name>
+    <status>promislovuy</status>
+    <ammount>54</ammount>
+    <price>27</price>
+  </Product>
+  <Product>
+    <name>andrii</name>
+    <status>prodovol</status>
+    <ammount>1</ammount>
+    <price>54</price>
+  </Product>
+  <Product>
+    <name>oleg</name>
+    <status>promislovuy</status>
+    <ammount>2</ammount>
+    <price>23</price>
+  </Product>
+  <Product>
+    <name>vasya</name>
+    <status>prodovol</status>
+    <ammount>3</ammount>
+    <price>9</price>
+  </Product>
+  <Product>
+    <name>misha</name>
+    <status>promislovuy</status>
+    <ammount>9</ammount>
+    <price>1</price>
+  </Product>
+</ArrayOfProduct>
